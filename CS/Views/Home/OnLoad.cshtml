@@ -1,0 +1,6 @@
+@Html.DevExpress().PopupControl(settings => {
+    settings.Name = "PopupControl";
+    settings.ShowOnPageLoad = true;
+    //settings.ClientSideEvents.Init = "function(s, e) { s.Show(); }"; // Alternative approach
+    settings.SetContent(() => ViewContext.Writer.Write("On Load"));
+}).GetHtml()
