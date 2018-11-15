@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
+* [AfterAsyncAjaxFormSubmit.cshtml](./CS/Views/Home/AfterAsyncAjaxFormSubmit.cshtml)
+* [AfterJQueryAjax.cshtml](./CS/Views/Home/AfterJQueryAjax.cshtml)
+* [AfterSyncFormSubmit.cshtml](./CS/Views/Home/AfterSyncFormSubmit.cshtml)
+* [Index.cshtml](./CS/Views/Home/Index.cshtml)
+* [OnLoad.cshtml](./CS/Views/Home/OnLoad.cshtml)
+<!-- default file list end -->
 # PopupControl - How to display the control after executing controller code
 
 
