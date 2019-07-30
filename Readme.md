@@ -10,7 +10,7 @@
 <!-- default file list end -->
 # PopupControl - How to display the control after executing controller code
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t350450)**
+**[[Run Online]](https://codecentral.devexpress.com/t350450/)**
 <!-- run online end -->
 
 
